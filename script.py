@@ -2,8 +2,8 @@ class script(object):
 
     START_TEXT = """<b>Hai ,
     
-I'm A simple Zee5 link downloader bot With Permanent Thumbnail Support💯.
-
+I'm A simple DK BOTZ Zee5 link downloader bot With Permanent Thumbnail Support💯.
+1
 Please send me any Zee5 link, I can upload it to telegram as File/Video.
 
 Currently I'm in beta mode 🥺, If found any bugs, report @PG_HD_STATUS !
@@ -43,7 +43,7 @@ NOTE: Download may take some time! So please wait for it to complete!"""
     
     UPGRADE_TEXT = "PING at @PG_HD_STATUS"
     
-    DOWNLOAD_START = "Trying to download to my server. This may take a while 😴"
+    DOWNLOAD_START = "Trying to download to my server. This may take a while 😴 HEELO HELLO MUSIC"
     
     UPLOAD_START = "Uploading Now ⬆️"
     
